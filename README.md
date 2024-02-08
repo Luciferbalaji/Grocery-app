@@ -3,6 +3,9 @@
 
 The Grocery Shop app is a mobile application developed using the Flutter framework.
 It provides a user-friendly interface for users to browse and purchase grocery items.
+
+
+
 2. Features:
 
 Home Page:
@@ -20,6 +23,7 @@ The app calculates the total price of items in the shopping cart.
 Navigation:
 
 Users can navigate between pages, including the home page and the shopping cart.
+
 3. Code Structure:
 
 The app is organized into multiple Flutter widgets, including pages and components.
